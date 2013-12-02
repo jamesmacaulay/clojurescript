@@ -4,3 +4,6 @@
 [submodule "web/vendor/codemirror"]
 	path = web/vendor/codemirror
 	url = https://github.com/marijnh/CodeMirror
+[submodule "chrome"]
+	path = chrome
+	url = git@github.com:jamesmacaulay/CoffeeConsole.git
